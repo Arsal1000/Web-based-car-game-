@@ -2,6 +2,7 @@
 Welcome to Asphalt 10 a fast paced car game where you have to avoid obstacles with your car in order to reach the finish line in time!
 
 **GAME SCREENSHOTS:**
+
 <img width="631" alt="image" src="https://github.com/Arsal1000/Web-based-car-game-/assets/151519116/c9381049-3c1b-4d3e-b7ff-056f9d9c4cfa">
 
 **HOW TO EXECUTE ON VISUAL STUDIO CODE:**
