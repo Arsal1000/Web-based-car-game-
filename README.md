@@ -13,6 +13,7 @@ Welcome to Asphalt 10 a fast paced car game where you have to avoid obstacles wi
 4. Run the code from the index.html file by pressing go live using the live server extension of VS Code
 
 **SCORING:**
+
 The score is calculated based on the amount of time it takes your car to complete the lap. The faster you complete the lap the higher your score.
 
 
